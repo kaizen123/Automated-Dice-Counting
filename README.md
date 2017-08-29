@@ -1,0 +1,2 @@
+# Automated-Dice-Counting
+An application that identifies the number of dice and the count on each dice useful in monitoring any dice-based games to enforce fair play. Designed an algorithm to identify and segment the area of interest using image processing techniques like morphological operations, unsupervised background subtraction, and convex hull to highlight the region of interest. Implemented image extraction methods like connected components to count the dots on the dice.
