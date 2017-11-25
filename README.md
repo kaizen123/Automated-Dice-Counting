@@ -1,2 +1,12 @@
-# Automated-Dice-Counting
-An application that identifies the number of dice and the count on each dice useful in monitoring any dice-based games to enforce fair play. Designed an algorithm to identify and segment the area of interest using image processing techniques like morphological operations, unsupervised background subtraction, and convex hull to highlight the region of interest. Implemented image extraction methods like connected components to count the dots on the dice.
+Requirements for the project.
+
+1)Matlab
+
+
+How to run the code.
+
+-> Clone the repository in your local machine. 
+-> Open the file with .m extension 
+-> Call the function "dice_count(input_image)" from the console.
+
+Note - the argument input_image should be an image with one or more dice and a dark background.
